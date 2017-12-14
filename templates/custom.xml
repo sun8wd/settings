@@ -1,5 +1,5 @@
 <templateSet group="custom">
-  <template name="add" value="/**&#10;* &#10;* $description$&#10;* @param: $param$&#10;* @Author: sunwd&#10;* @Date: $DATE$ $TIME$&#10;*/" description="add commend" toReformat="false" toShortenFQNames="true">
+  <template name="add" value="/**&#10;* &#10;* $description$&#10;* @param: $param$&#10;* @return &#10;* @Author: sunwd&#10;* @Date: $DATE$ $TIME$&#10;*/" description="add commend" toReformat="false" toShortenFQNames="true">
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
