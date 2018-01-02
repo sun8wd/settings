@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [celbox-single]'" />
-    <option name="defaultScopeName" value="Directory '... [celbox-single]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [celbox-single]'" />
+    <option name="customScope" value="Project 'biodb'" />
+    <option name="defaultScopeName" value="Project 'biodb'" />
+    <option name="SEARCH_SCOPE" value="Project 'biodb'" />
   </component>
 </application>
