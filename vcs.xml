@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/sdyz5210/celloud-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:sdyz5210/celloud_xnmd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/github/celloud-common" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/github" />
   </component>
 </application>
