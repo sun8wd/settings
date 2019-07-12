@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.gitignore;.hg;.idea;.mvn;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_svn;logs;logs-*;node_modules;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="200" type="PLAIN_TEXT" />
+      <mapping pattern="spring-nacos" type="XML" />
     </extensionMap>
   </component>
 </application>
